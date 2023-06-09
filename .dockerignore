@@ -6,7 +6,6 @@
 /kanachan.egg-info
 /.dockerignore
 /prerequisites
-/annotate/Dockerfile
-/kanachan/Dockerfile
+/**/Dockerfile
 /kanachan/**/__pycache__
 /mjai.app
